@@ -35,7 +35,7 @@ The model processes qualitative and quantitative inputs to generate a unified **
 ## Visualizations
 *(Note: These visuals are generated using Python and MATLAB)*
 
-**1. MATLAB 3D Surface Viewer (Trust vs. Equity)**
+**1. MATLAB 3D Surface Viewer (Trust vs. Project)**
 ![Surface Viewer Image](https://github.com/omeraslanw/Fuzzy-Logic-Application-About-Bank-Customer-Relation-in-Participation-Banking/blob/main/MatLab%20Results/MatLab%20Graphs/trust-project.png?raw=true)
 *Figure 1: The control surface showing how Trust Score and Project impact the decision.*
 
@@ -58,9 +58,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | Name | Role | Links |
 | :--- | :--- | :--- |
 | **Ömer Faruk Aslan** | MATLAB Modeling & Data Preparation | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/omeraslanw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B6mer-faruk-aslan-9392371b6/) |
-| **Yusuf Eren Karagöz** | Python Development & Simulation | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-eren-karagoz/) |
-| **Ekrem Güler** | Python Development & Simulation | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekrem-g%C3%BCler/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B9AtoH0hOQeekr144v8g2CQ%3D%3D) |
+| **Yusuf Eren Karagöz** | Python Development & Simulation | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/yeren2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-eren-karagoz/) |
+| **Ekrem Güler** | Python Development & Simulation | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Ekrem-Guler) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekrem-g%C3%BCler/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B9AtoH0hOQeekr144v8g2CQ%3D%3D) |
 | **Tayfur Durlanık** | Academic Research & Documentation | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayfur-durlan%C4%B1k-b0260b272/) |
-| **Şükrü Yasin Yıldırım** | Academic Research & Documentation | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C5%9F%C3%BCkr%C3%BC-yasin-y%C4%B1ld%C4%B1r%C4%B1m-9002a4230/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B9AtoH0hOQeekr144v8g2CQ%3D%3D) |
-| **Affan Buğra Özaytaş** | Academic Research & Documentation | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/affanbugra/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B9AtoH0hOQeekr144v8g2CQ%3D%3D) |
+| **Şükrü Yasin Yıldırım** | Academic Research & Documentation | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/yasinyildiriw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C5%9F%C3%BCkr%C3%BC-yasin-y%C4%B1ld%C4%B1r%C4%B1m-9002a4230/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B9AtoH0hOQeekr144v8g2CQ%3D%3D) |
+| **Affan Buğra Özaytaş** | Academic Research & Documentation | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/affanbugra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/affanbugra/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B9AtoH0hOQeekr144v8g2CQ%3D%3D) |
 | **Burak Han Demirbaş** | Academic Research & Documentation | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kullaniciadi) |
