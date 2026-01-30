@@ -1,0 +1,2 @@
+# Fuzzy-Logic-Application-About-Bank-Customer-Relation-in-Participation-Banking
+This project introduces a **Fuzzy Inference System (FIS)** designed to optimize the risk assessment process in Participation Banking (Islamic Banking). Unlike traditional binary credit scoring models (0 or 1), this system mimics human reasoning to evaluate the suitability of potential partnerships (Mudharabah/Musharakah).
